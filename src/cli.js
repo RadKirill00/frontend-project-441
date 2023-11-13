@@ -1,4 +1,3 @@
-// src/cli.js
 import readlineSync from 'readline-sync';
 
 export const welcomeUser = () => {
